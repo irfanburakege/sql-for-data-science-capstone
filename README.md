@@ -24,7 +24,7 @@ The goal of this project was to apply SQL skills to real-world datasets and answ
 ## 📂 Files
 
 - `Capstone_Project.ipynb`: Contains all queries, analysis, and final outputs.
-- Other '.csv' files for the table data.
+- Additional '.csv' files containing the data.
 
 ## 🧠 Skills Demonstrated
 
